@@ -3,7 +3,7 @@ The Financial Information Collector
 
 Description
 
-The The Financial Information Collector retrieves and displays market information for a specified country from the Trading Economics website. The program fetches the latest economic data and parses it into a readable format.
+The Financial Information Collector retrieves and displays market information for a specified country from the Trading Economics website. The program fetches the latest economic data and parses it into a readable format.
 
 Features
 
