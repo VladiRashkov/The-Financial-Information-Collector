@@ -5,14 +5,14 @@
 
 The Financial Information Collector retrieves and displays market information for a specified country from the Trading Economics website. The program fetches the latest economic data and parses it into a readable format.
 
-Features
+## Features
 
 Fetches real-time market data from Trading Economics.
 Parses and displays relevant information for the specified country.
 Provides a concise summary of market indicators for easy reference.
 
 
-Requirements
+## Requirements
 
 Python 3.x
 pandas library
@@ -20,7 +20,7 @@ requests library
 lxml library
 
 
-Usage
+## Usage
 
 Run the Script:
 Execute the Python script in your terminal or command prompt.
